@@ -1,0 +1,194 @@
+.reco{
+    flex: 0.8;
+    background-color: rgb(251, 244, 244);
+    
+}
+
+.reco >p{
+    flex: 0.6;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 13px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+
+.reco .therapist{
+    border-radius: 25px;
+    border: 2px solid black;
+    padding: 20px;
+    width: 130px;
+    height: 100px; 
+    margin-left: 80px;
+    background-color: aliceblue;
+}
+
+.reco .therapist:hover{
+    background-color: rgb(150, 174, 195);
+}
+
+.reco .client{
+    position: absolute;
+    left: 40%;
+    top: 170px;
+    border-radius: 25px;
+    border: 2px solid black;
+    padding: 20px;
+    width: 110px;
+    height: 50px; 
+    margin-left: 50px;
+    background-color: aliceblue;
+}
+.reco .client:hover{
+    background-color: rgb(150, 174, 195);
+}
+
+.reco .clients{
+    border-radius: 25px;
+    border: 2px solid black;
+    padding: 20px;
+    width: 130px;
+    height: 100px; 
+    margin-left: 80px;
+    background-color: aliceblue;
+}
+.reco .clients:hover{
+    background-color: rgb(150, 174, 195);
+}
+
+.reco .Revenu{
+    border-radius: 25px;
+    border: 2px solid black;
+    padding: 20px;
+    width: 250px;
+    height: 150px; 
+    margin-left: 80px;
+    background-color: aliceblue;  
+}
+.reco .Revenu:hover{
+    background-color: rgb(150, 174, 195);
+}
+
+.reco .App{
+    position: absolute;
+    border-radius: 5px;
+    border: 2px solid black;
+    padding: 20px;
+    width: 100px;
+    height: 45px; 
+    margin-left: 80px;
+    background-color: aliceblue;  
+}
+.reco .App:hover{
+    background-color: rgb(53, 68, 81);
+}
+
+.reco .couples{
+    position: absolute;
+    left: 38%;
+    top: 340px;
+    border-radius: 25px;
+    border: 2px solid black;
+    padding: 20px;
+    width: 100px;
+    height: 50px; 
+    margin-left: 80px;
+    background-color: aliceblue;    
+}
+.reco .couples:hover{
+    background-color: rgb(150, 174, 195);
+}
+
+.reco .parents{
+    position: absolute;
+    left: 52%;
+    top: 340px;
+    border-radius: 25px;
+    border: 2px solid black;
+    padding: 20px;
+    width: 100px;
+    height: 50px; 
+    margin-left: 80px;
+    background-color: aliceblue; 
+     
+}
+.reco .parents:hover{
+    background-color: rgb(150, 174, 195);
+}
+
+.reco .teen{
+    position: absolute;
+    left: 65%;
+    top: 340px;
+    border-radius: 25px;
+    border: 2px solid black;
+    padding: 20px;
+    width: 100px;
+    height: 50px; 
+    margin-left: 80px;
+    background-color: aliceblue; 
+}
+.reco .teen:hover{
+    background-color: rgb(150, 174, 195);
+}
+
+.reco .Weeklyactivity{
+    position: absolute;
+    left: 52%;
+    top: 170px;
+    border-radius: 25px;
+    border: 2px solid black;
+    padding: 20px;
+    width: 180px;
+    height: 50px; 
+    margin-left: 80px;
+    background-color: aliceblue; 
+}
+.reco .Weeklyactivity:hover{
+    background-color: rgb(150, 174, 195);
+}
+
+.reco .calender{
+    position: absolute;
+    left: 52%;
+    top: 450px;
+    /* border-radius: 25px;
+    border: 2px solid black; */
+    padding: 20px;
+    width: 280px;
+    height: 50px; 
+    margin-left: 80px;
+    /* background-color: aliceblue;  */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .reco{
+    border: 1px solid black;
+    flex: 0.8;
+    padding: 40px 20px;
+    padding-bottom: 0;
+}
+
+.reco .h3{
+    margin-left: 5px;
+    margin-bottom: 20px;
+
+}  */

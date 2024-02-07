@@ -1,0 +1,44 @@
+.first{
+    position: absolute;
+    left: 32%;
+    top: 220px;
+    border-radius: 2px;
+    border: 2px solid black;
+    padding: 20px;
+    width: 450px;
+    height: 300px; 
+    margin-left: 80px;
+    background-color: aliceblue;
+}
+.client >p{
+    flex: 0.6;
+    position: absolute;
+    top: 100px;
+    border: 2px solid black;
+    padding: 10px;
+    width: 900px;
+    height: 30px;
+    border-radius: 13px;
+    margin-right: 10px;
+    margin-left: 380px;
+}
+
+.droup{
+    position: absolute;
+    top: 160px;
+    left: 62%;
+
+}
+.droup.droupbox{
+    display: flex;
+    height: 10px;
+    width: 100px;
+}
+.searchbar{
+    position: absolute;
+    top: 160px;
+    left: 68%;
+    border-radius: 2px;
+}
+
+

@@ -1,0 +1,30 @@
+.details{
+    display: flex;
+    position: absolute;
+    top: 158px;
+    right: 69%; 
+}
+.detailsa> hr{ 
+position: absolute;
+top: 178px;
+left: 21%;
+height: 1px;
+border: 0;
+background-color: black;
+width: 780px;
+margin-top: 10px;
+margin-bottom: 15px;
+}
+.email{
+    display: flex;
+    position: absolute;
+    top: 202px;
+    right: 69%;
+}
+
+.email_button{
+    display: flex;
+    position: absolute;
+    top: 202px;
+    left: 55%;
+}
