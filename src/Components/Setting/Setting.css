@@ -3,6 +3,7 @@
     position: absolute;
     top: 158px;
     right: 69%; 
+    font-size: larger;
 }
 .detailsa> hr{ 
 position: absolute;
@@ -27,4 +28,65 @@ margin-bottom: 15px;
     position: absolute;
     top: 202px;
     left: 55%;
+}
+.password{
+    display: flex;
+    position: absolute;
+    top: 270px;
+    right: 69%; 
+}
+.password_button{
+    display: flex;
+    position: absolute;
+    top: 270px;
+    left: 55%;
+}
+
+.line{
+position: absolute;
+top: 355px;
+left: 21%;
+height: 2px;
+border: 0;
+background-color: black;
+width: 780px;
+margin-top: 10px;
+margin-bottom: 15px;
+}
+
+.language{
+    display: flex;
+    position: absolute;
+    top: 332px;
+    right: 71%;
+    font-size: larger;
+}
+
+.planguage{
+    display: flex;
+    position: absolute;
+    top: 376px;
+    right: 68%;
+     
+}
+
+.droupdown{
+    display: flex;
+    position: absolute;
+    top: 376px;
+    left: 55%; 
+}
+.bank{
+    display: flex;
+    position: absolute;
+    top: 490px;
+    right: 68%;
+    color: blue;
+}
+.save{
+   
+    position: absolute;
+    top: 602px;
+    left: 65%;
+    border-radius: 12px; 
 }

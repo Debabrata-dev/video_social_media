@@ -38,7 +38,7 @@ function Sidebar() {
       <br/>
       <SidebarRow Icon={SettingsIcon} link="/Setting" title="Setting"/>
       <br/>
-      <SidebarRow Icon={NotificationsIcon} title="Notifications"/>
+      <SidebarRow Icon={NotificationsIcon} link="/Notification" title="Notifications"/>
       <br/>
       <br/>
      <hr/>

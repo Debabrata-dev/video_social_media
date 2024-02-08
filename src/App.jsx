@@ -9,7 +9,7 @@ import Wallet from './Components/Wallet/Wallet';
 import Report from './Components/Report/Report';
 import Footer from './Components/Footer/Footer';
 import Setting from './Components/Setting/Setting';
-
+import Notifaction from './Components/Notification/Notifaction';
 function App() {
   return (
    <>
@@ -24,7 +24,7 @@ function App() {
       <Route path="/Wallet" element={<Wallet/>}/>
       <Route path="/Report" element={<Report/>}/>
       <Route path="/Setting" element={<Setting/>}/>
-
+      <Route path='/Notifaction' element={<Notifaction/>}/>
     </Routes>
   
    </>
